@@ -33,19 +33,19 @@ body {
 }
 .display-5 {
   font-family: 'Oxygen', sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.56rem;
+  font-size: 2.88rem;
 }
 .display-7 {
   font-family: 'Oxygen', sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.56rem;
+  font-size: 2.4rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -69,9 +69,9 @@ body {
     line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.28rem;
-    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -547,11 +547,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Oxygen', sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.56rem;
+  font-size: 2.4rem;
 }
 blockquote {
   border-color: #f15c00;
@@ -711,7 +711,7 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rXFdWcAXyL {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #3e4141;
   background: linear-gradient(45deg, #3e4141, #232323);
@@ -732,8 +732,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rXDIcLsjqQ {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #f15c00;
 }
 @media (min-width: 992px) {
