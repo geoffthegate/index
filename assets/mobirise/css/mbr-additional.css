@@ -711,7 +711,7 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rXFdWcAXyL {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #3e4141;
   background: linear-gradient(45deg, #3e4141, #232323);
@@ -730,6 +730,10 @@ section.lazy-placeholder:after {
   .cid-rXFdWcAXyL .mbr-text {
     text-align: center;
   }
+}
+.cid-rXFdWcAXyL .mbr-text,
+.cid-rXFdWcAXyL .mbr-section-btn {
+  text-align: center;
 }
 .cid-rXDIcLsjqQ {
   padding-top: 15px;
